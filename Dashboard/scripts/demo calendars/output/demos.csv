@@ -1,0 +1,358 @@
+,info,wfm,wfm_year,wfm_month,wfm_day,act_year,act_month,act_day,day_of_week
+0,,False,NULL,NULL,NULL,2014,1,1,Wednesday
+1,,False,NULL,NULL,NULL,2014,1,2,Thursday
+2,,False,NULL,NULL,NULL,2014,1,3,Friday
+3,,False,NULL,NULL,NULL,2014,1,4,Saturday
+4,,False,NULL,NULL,NULL,2014,1,5,Sunday
+5,,False,NULL,NULL,NULL,2014,1,6,Monday
+6,,False,NULL,NULL,NULL,2014,1,7,Tuesday
+7,,False,NULL,NULL,NULL,2014,1,8,Wednesday
+8,,False,NULL,NULL,NULL,2014,1,9,Thursday
+9,,False,NULL,NULL,NULL,2014,1,10,Friday
+10,,False,NULL,NULL,NULL,2014,1,11,Saturday
+11,,False,NULL,NULL,NULL,2014,1,12,Sunday
+12,,False,NULL,NULL,NULL,2014,1,13,Monday
+13,,False,NULL,NULL,NULL,2014,1,14,Tuesday
+14,,False,NULL,NULL,NULL,2014,1,15,Wednesday
+15,Whole Foods Tribeca (Calli 4pm-7pm),True,2014,1,13,2014,1,16,Thursday
+16,,False,NULL,NULL,NULL,2014,1,17,Friday
+17,,False,NULL,NULL,NULL,2014,1,18,Saturday
+18,,False,NULL,NULL,NULL,2014,1,19,Sunday
+19,,False,NULL,NULL,NULL,2014,1,20,Monday
+20,,False,NULL,NULL,NULL,2014,1,21,Tuesday
+21,,False,NULL,NULL,NULL,2014,1,22,Wednesday
+22,,False,NULL,NULL,NULL,2014,1,23,Thursday
+23,Whole Foods Tribeca (Calli 4pm-7pm),True,2014,1,20,2014,1,24,Friday
+24,,False,NULL,NULL,NULL,2014,1,25,Saturday
+25,,False,NULL,NULL,NULL,2014,1,26,Sunday
+26,,False,NULL,NULL,NULL,2014,1,27,Monday
+27,,False,NULL,NULL,NULL,2014,1,28,Tuesday
+28,Gourmet Garage SoHo (Calli 4pm-7pm),False,NULL,NULL,NULL,2014,1,29,Wednesday
+29,Whole Foods Tribeca (Calli 4pm-7pm),True,2014,1,27,2014,1,30,Thursday
+30,,False,NULL,NULL,NULL,2014,1,31,Friday
+31,Depanneur 12pm  3pm (Jennie? Maria?),False,NULL,NULL,NULL,2014,2,1,Saturday
+32,,False,NULL,NULL,NULL,2014,2,2,Sunday
+33,,False,NULL,NULL,NULL,2014,2,3,Monday
+34,"Gourmet Garage Park Ave 4pm  7pm (Melissa, Mirus)",False,NULL,NULL,NULL,2014,2,4,Tuesday
+35,,False,NULL,NULL,NULL,2014,2,5,Wednesday
+36,"Gourmet Garage SoHo (Melissa, Mirus)",False,NULL,NULL,NULL,2014,2,6,Thursday
+37,"Whole Foods Tribeca (Amanda, Mirus)",True,2014,2,3,2014,2,7,Friday
+38,Nolita Mart 2pm-4pm,False,NULL,NULL,NULL,2014,2,8,Saturday
+39,,False,NULL,NULL,NULL,2014,2,9,Sunday
+40,,False,NULL,NULL,NULL,2014,2,10,Monday
+41,Fairway 86th St 3pm  6pm (Mirus?),False,NULL,NULL,NULL,2014,2,11,Tuesday
+42,Whole Foods Tribeca (Harmony 4pm-7pm),True,2014,2,10,2014,2,12,Wednesday
+43,,False,NULL,NULL,NULL,2014,2,13,Thursday
+44,,False,NULL,NULL,NULL,2014,2,14,Friday
+45,,False,NULL,NULL,NULL,2014,2,15,Saturday
+46,,False,NULL,NULL,NULL,2014,2,16,Sunday
+47,,False,NULL,NULL,NULL,2014,2,17,Monday
+48,,False,NULL,NULL,NULL,2014,2,18,Tuesday
+49,Gourmet Garage Park Ave  4pm-7pm),False,NULL,NULL,NULL,2014,2,19,Wednesday
+50,Gourmet Garage SoHo (Harmony 4pm-7pm),False,NULL,NULL,NULL,2014,2,20,Thursday
+51,Whole Foods Tribeca (Calli 4pm-7pm),True,2014,2,17,2014,2,21,Friday
+52,Fairway Red Hook 2pm  5pm (Mirus?),False,NULL,NULL,NULL,2014,2,22,Saturday
+53,West Elm Broadway 1pm-4pm,False,NULL,NULL,NULL,2014,2,23,Sunday
+54,,False,NULL,NULL,NULL,2014,2,24,Monday
+55,,False,NULL,NULL,NULL,2014,2,25,Tuesday
+56,,False,NULL,NULL,NULL,2014,2,26,Wednesday
+57,Green Grape Provisions demo (5pm-8pm),False,NULL,NULL,NULL,2014,2,27,Thursday
+58,,False,NULL,NULL,NULL,2014,2,28,Friday
+59,West Elm Broadway 1pm-4pm,False,NULL,NULL,NULL,2014,3,1,Saturday
+60,West Elm Dumbo 2pm  5pm,False,NULL,NULL,NULL,2014,3,2,Sunday
+61,,False,NULL,NULL,NULL,2014,3,3,Monday
+62,,False,NULL,NULL,NULL,2014,3,4,Tuesday
+63,,False,NULL,NULL,NULL,2014,3,5,Wednesday
+64,Fairway 86th St 3pm-6pm (Harmony),False,NULL,NULL,NULL,2014,3,6,Thursday
+65,,False,NULL,NULL,NULL,2014,3,7,Friday
+66,,False,NULL,NULL,NULL,2014,3,8,Saturday
+67,Fairway Kips Bay (Harmony) 3pm-6pm,False,NULL,NULL,NULL,2014,3,9,Sunday
+68,,False,NULL,NULL,NULL,2014,3,10,Monday
+69,,False,NULL,NULL,NULL,2014,3,11,Tuesday
+70,,False,NULL,NULL,NULL,2014,3,12,Wednesday
+71,,False,NULL,NULL,NULL,2014,3,13,Thursday
+72,Whole Foods Gowanus 4pm-7pm,True,2014,3,10,2014,3,14,Friday
+73,Fairway Woodland Park 12pm-3pm,False,NULL,NULL,NULL,2014,3,15,Saturday
+74,Fairway Red Hook (Harmony) 2pm-5pm,False,NULL,NULL,NULL,2014,3,16,Sunday
+75,,False,NULL,NULL,NULL,2014,3,17,Monday
+76,,False,NULL,NULL,NULL,2014,3,18,Tuesday
+77,,False,NULL,NULL,NULL,2014,3,19,Wednesday
+78,Gourmet Garage E 64th St (4pm-7pm),False,NULL,NULL,NULL,2014,3,20,Thursday
+79,Elis Manhattan 4pm-7pm,False,NULL,NULL,NULL,2014,3,21,Friday
+80,Fairway Nanuet 3pm-6pm,False,NULL,NULL,NULL,2014,3,22,Saturday
+81,West Elm Dumbo 2pm  5pm (Harmony),False,NULL,NULL,NULL,2014,3,23,Sunday
+82,,False,NULL,NULL,NULL,2014,3,24,Monday
+83,,False,NULL,NULL,NULL,2014,3,25,Tuesday
+84,,False,NULL,NULL,NULL,2014,3,26,Wednesday
+85,Fairway Westbury 3pm  6pm,False,NULL,NULL,NULL,2014,3,27,Thursday
+86,Whole Foods Gowanus Demo 4pm-7pm,True,2014,3,24,2014,3,28,Friday
+87,Fairway Red Hook 2pm-5pm,False,NULL,NULL,NULL,2014,3,29,Saturday
+88,Fairway Kips Bay 3pm-6pm (Harmony),False,NULL,NULL,NULL,2014,3,30,Sunday
+89,,False,NULL,NULL,NULL,2014,3,31,Monday
+90,,False,NULL,NULL,NULL,2014,4,1,Tuesday
+91,,False,NULL,NULL,NULL,2014,4,2,Wednesday
+92,Gourmet Garage E 64th St 4pm-7pm SABRINA,False,NULL,NULL,NULL,2014,4,3,Thursday
+93,Fairway Nanuet 3pm-6pm MIRUS,False,NULL,NULL,NULL,2014,4,4,Friday
+94,WFM Lynnfield 4pm-7pm MIRUS,True,2014,3,31,2014,4,5,Saturday
+95,Depanneur 12pm-3pm JOY,False,NULL,NULL,NULL,2014,4,6,Sunday
+96,,False,NULL,NULL,NULL,2014,4,7,Monday
+97,Gourmet Garage West Village 5pm-8pm,False,NULL,NULL,NULL,2014,4,8,Tuesday
+98,,False,NULL,NULL,NULL,2014,4,9,Wednesday
+99,WFM UWS 4pm-7pm AMANDA,True,2014,4,7,2014,4,10,Thursday
+100,WFM Union Square 4pm-7pm JOY,True,2014,4,7,2014,4,11,Friday
+101,West Elm Broadway 1pm-4pm DANIELLE,False,NULL,NULL,NULL,2014,4,12,Saturday
+102,Union Market (Houston) 4pm-7pm JOY,False,NULL,NULL,NULL,2014,4,13,Sunday
+103,,False,NULL,NULL,NULL,2014,4,14,Monday
+104,,False,NULL,NULL,NULL,2014,4,15,Tuesday
+105,,False,NULL,NULL,NULL,2014,4,16,Wednesday
+106,WFM Chelsea 4pm-7pm JOY,True,2014,4,14,2014,4,17,Thursday
+107,WFM Roosevelt Square (PNW) 4pm-7pm,True,2014,4,14,2014,4,18,Friday
+108,Union Market (Court St.) 2pm-5pm DANIELLE,False,NULL,NULL,NULL,2014,4,19,Saturday
+109,,False,NULL,NULL,NULL,2014,4,20,Sunday
+110,,False,NULL,NULL,NULL,2014,4,21,Monday
+111,Gourmet Garage West Village 5pm-8pm,False,NULL,NULL,NULL,2014,4,22,Tuesday
+112,,False,NULL,NULL,NULL,2014,4,23,Wednesday
+113,WFM Tanasbourne 4pm-7pm MIRUS,True,2014,4,21,2014,4,24,Thursday
+114,WFM Union Sq 4pm-7pm AMANDA,True,2014,4,21,2014,4,25,Friday
+115,WFM Lynnwood (PNW) 12pm-3pm,True,2014,4,21,2014,4,26,Saturday
+116,Union Market 7th Ave 3pm-6pm,False,NULL,NULL,NULL,2014,4,27,Sunday
+117,Union Market (Houston) 4pm-7pm,False,NULL,NULL,NULL,2014,4,28,Monday
+118,WFM Hollywood 4pm-7pm,True,2014,4,28,2014,4,29,Tuesday
+119,,False,NULL,NULL,NULL,2014,4,30,Wednesday
+120,,False,NULL,NULL,NULL,2014,5,1,Thursday
+121,"WFM Roosevelt Square (PNW), 4pm-7pm",True,2014,4,28,2014,5,2,Friday
+122,"Southern Season Chapel Hill, 3pm-6pm",False,NULL,NULL,NULL,2014,5,3,Saturday
+123,"WFM Bridgeport, 1pm-4pm",True,2014,4,28,2014,5,4,Sunday
+124,,False,NULL,NULL,NULL,2014,5,5,Monday
+125,Gourmet Garage West Village 3pm-6pm,False,NULL,NULL,NULL,2014,5,6,Tuesday
+126,,False,NULL,NULL,NULL,2014,5,7,Wednesday
+127,Gourmet Garage Soho 3pm-6pm GWEN,False,NULL,NULL,NULL,2014,5,8,Thursday
+128,"WFM Brighton, 4pm-7pm",True,2014,5,5,2014,5,9,Friday
+129,"Fairway Red Hook, 3pm-6pm AMANDA M",False,NULL,NULL,NULL,2014,5,10,Saturday
+130,Fairway Chelsea 3pm-6pm DANIELLE,False,NULL,NULL,NULL,2014,5,11,Sunday
+131,,False,NULL,NULL,NULL,2014,5,12,Monday
+132,,False,NULL,NULL,NULL,2014,5,13,Tuesday
+133,,False,NULL,NULL,NULL,2014,5,14,Wednesday
+134,,False,NULL,NULL,NULL,2014,5,15,Thursday
+135,"WFM Fresh Pond, 4pm-7pm",True,2014,5,12,2014,5,16,Friday
+136,Fairway Harlem 3pm-6pm,False,NULL,NULL,NULL,2014,5,17,Saturday
+137,"TFM Ft. Lauderdale, 12pm-3pm",False,NULL,NULL,NULL,2014,5,18,Sunday
+138,,False,NULL,NULL,NULL,2014,5,19,Monday
+139,,False,NULL,NULL,NULL,2014,5,20,Tuesday
+140,,False,NULL,NULL,NULL,2014,5,21,Wednesday
+141,,False,NULL,NULL,NULL,2014,5,22,Thursday
+142,,False,NULL,NULL,NULL,2014,5,23,Friday
+143,"WFM Newton, 2pm-5pm (tentative)",True,2014,5,19,2014,5,24,Saturday
+144,BYOB Cocktail Emporium (Toronto)  1pm-4pm,False,NULL,NULL,NULL,2014,5,25,Sunday
+145,MEMORIAL DAY,False,NULL,NULL,NULL,2014,5,26,Monday
+146,,False,NULL,NULL,NULL,2014,5,27,Tuesday
+147,,False,NULL,NULL,NULL,2014,5,28,Wednesday
+148,"West Elm Broadway, 4pm-7pm",False,NULL,NULL,NULL,2014,5,29,Thursday
+149,"Macys Chicago, IL 4pm-7pm",False,NULL,NULL,NULL,2014,5,30,Friday
+150,,False,NULL,NULL,NULL,2014,5,31,Saturday
+151,,False,NULL,NULL,NULL,2014,6,1,Sunday
+152,,False,NULL,NULL,NULL,2014,6,2,Monday
+153,WFM Tribeca 4pm-7pm,True,2014,6,2,2014,6,3,Tuesday
+154,,False,NULL,NULL,NULL,2014,6,4,Wednesday
+155,,False,NULL,NULL,NULL,2014,6,5,Thursday
+156,,False,NULL,NULL,NULL,2014,6,6,Friday
+157,Southern Seasons Chapel Hill event w sampling (no rep),False,NULL,NULL,NULL,2014,6,7,Saturday
+158,,False,NULL,NULL,NULL,2014,6,8,Sunday
+159,,False,NULL,NULL,NULL,2014,6,9,Monday
+160,,False,NULL,NULL,NULL,2014,6,10,Tuesday
+161,,False,NULL,NULL,NULL,2014,6,11,Wednesday
+162,"West Elm Broadway, 4pm-7pm (NINA)",False,NULL,NULL,NULL,2014,6,12,Thursday
+163,,False,NULL,NULL,NULL,2014,6,13,Friday
+164,,False,NULL,NULL,NULL,2014,6,14,Saturday
+165,Olives & Grace 12pm-3pm,False,NULL,NULL,NULL,2014,6,15,Sunday
+166,,False,NULL,NULL,NULL,2014,6,16,Monday
+167,,False,NULL,NULL,NULL,2014,6,17,Tuesday
+168,Union Market Houston 4pm-7pm,False,NULL,NULL,NULL,2014,6,18,Wednesday
+169,WFM Tribeca 4pm-7pm,True,2014,6,16,2014,6,19,Thursday
+170,WFM University Heights 3pm-6pm,True,2014,6,16,2014,6,20,Friday
+171,Brooklyn Victory Garden 1:30pm-3:30pm,False,NULL,NULL,NULL,2014,6,21,Saturday
+172,TFM (30 demos w Interactions) 12pm-4pm,False,NULL,NULL,NULL,2014,6,22,Sunday
+173,,False,NULL,NULL,NULL,2014,6,23,Monday
+174,WFM Chelsea 4pm-7pm,True,2014,6,23,2014,6,24,Tuesday
+175,,False,NULL,NULL,NULL,2014,6,25,Wednesday
+176,Union Market Houston 4pm-7pm,False,NULL,NULL,NULL,2014,6,26,Thursday
+177,Williams-Sonoma Boston 3pm-6pm,False,NULL,NULL,NULL,2014,6,27,Friday
+178,DiBrunos Rittenhouse 2pm-5pm,False,NULL,NULL,NULL,2014,6,28,Saturday
+179,Williams-Sonoma DC 3pm-6pm,False,NULL,NULL,NULL,2014,6,29,Sunday
+180,,False,NULL,NULL,NULL,2014,6,30,Monday
+181,WFM Bowery 4pm-7pm (Mirus),True,2014,6,30,2014,7,1,Tuesday
+182,Southern Season Chapel Hill 3pm-6pm (Mirus),False,NULL,NULL,NULL,2014,7,2,Wednesday
+183,WFM Chelsea 4pm-7pm,True,2014,6,30,2014,7,3,Thursday
+184,,False,NULL,NULL,NULL,2014,7,4,Friday
+185,"BB&B 12pm-4pm (Farmington Hills, East Havover, 61st St, Shaumburg) (Mirus)",False,NULL,NULL,NULL,2014,7,5,Saturday
+186,"DiBrunos (Ardmore) 2pm-5pm BB&B West LA, Tysons Corner, Wodbirdge 12pm-4pm",False,NULL,NULL,NULL,2014,7,6,Sunday
+187,WFM University Heights 4pm-7pm,True,2014,7,7,2014,7,7,Monday
+188,Westerly Market 4pm-7pm,False,NULL,NULL,NULL,2014,7,8,Tuesday
+189,,False,NULL,NULL,NULL,2014,7,9,Wednesday
+190,Williams-Sonoma 59th St. 2pm-5pm,False,NULL,NULL,NULL,2014,7,10,Thursday
+191,,False,NULL,NULL,NULL,2014,7,11,Friday
+192,Fairway Market Red Hook 12pm-3pm,False,NULL,NULL,NULL,2014,7,12,Saturday
+193,"Williams-Sonoma Short Hills, NJ 1pm-4pm(Mirus)",False,NULL,NULL,NULL,2014,7,13,Sunday
+194,,False,NULL,NULL,NULL,2014,7,14,Monday
+195,,False,NULL,NULL,NULL,2014,7,15,Tuesday
+196,,False,NULL,NULL,NULL,2014,7,16,Wednesday
+197,,False,NULL,NULL,NULL,2014,7,17,Thursday
+198,Southern Season Charleston 3pm-6pm,False,NULL,NULL,NULL,2014,7,18,Friday
+199,Savory Pantry (NY opening) 1pm-4pm,False,NULL,NULL,NULL,2014,7,19,Saturday
+200,,False,NULL,NULL,NULL,2014,7,20,Sunday
+201,,False,NULL,NULL,NULL,2014,7,21,Monday
+202,WFM Bowery 4pm-7pm,True,2014,7,21,2014,7,22,Tuesday
+203,,False,NULL,NULL,NULL,2014,7,23,Wednesday
+204,DiBrunos Franklin 5pm-7pm,False,NULL,NULL,NULL,2014,7,24,Thursday
+205,WFM Darien 3pm-7pm,True,2014,7,21,2014,7,25,Friday
+206,"Williams-Sonoma Philly, 2pm-5pm",False,NULL,NULL,NULL,2014,7,26,Saturday
+207,NoFo at the Pig 11am  2pm,False,NULL,NULL,NULL,2014,7,27,Sunday
+208,,False,NULL,NULL,NULL,2014,7,28,Monday
+209,Westerly Market 4pm-7pm,False,NULL,NULL,NULL,2014,7,29,Tuesday
+210,,False,NULL,NULL,NULL,2014,7,30,Wednesday
+211,,False,NULL,NULL,NULL,2014,7,31,Thursday
+212,,False,NULL,NULL,NULL,2014,8,1,Friday
+213,Lukes Drug Mart 1pm-4pm,False,NULL,NULL,NULL,2014,8,2,Saturday
+214,Fairway Red Hook 12pm-3pm,False,NULL,NULL,NULL,2014,8,3,Sunday
+215,,False,NULL,NULL,NULL,2014,8,4,Monday
+216,,False,NULL,NULL,NULL,2014,8,5,Tuesday
+217,,False,NULL,NULL,NULL,2014,8,6,Wednesday
+218,,False,NULL,NULL,NULL,2014,8,7,Thursday
+219,,False,NULL,NULL,NULL,2014,8,8,Friday
+220,Bantam Market 1pm-4pm,False,NULL,NULL,NULL,2014,8,9,Saturday
+221,WFM Darien 3pm-7pm,True,2014,8,4,2014,8,10,Sunday
+222,"Southern Season Richmond, VA 6pm-9pm",False,NULL,NULL,NULL,2014,8,11,Monday
+223,,False,NULL,NULL,NULL,2014,8,12,Tuesday
+224,,False,NULL,NULL,NULL,2014,8,13,Wednesday
+225,,False,NULL,NULL,NULL,2014,8,14,Thursday
+226,,False,NULL,NULL,NULL,2014,8,15,Friday
+227,Williams-Sonoma 59th St 2:30pm  5:30pm,False,NULL,NULL,NULL,2014,8,16,Saturday
+228,Salazon Chocolate 12pm-3pm,False,NULL,NULL,NULL,2014,8,17,Sunday
+229,,False,NULL,NULL,NULL,2014,8,18,Monday
+230,"TFM Greensboro, NC 2pm-5pm",False,NULL,NULL,NULL,2014,8,19,Tuesday
+231,,False,NULL,NULL,NULL,2014,8,20,Wednesday
+232,,False,NULL,NULL,NULL,2014,8,21,Thursday
+233,Vintage on 4th 5pm-8pm,False,NULL,NULL,NULL,2014,8,22,Friday
+234,Southern Season Chapel Hill 12pm-3pm,False,NULL,NULL,NULL,2014,8,23,Saturday
+235,WFM Nashua 2:30 pm  6:30pm,True,2014,8,18,2014,8,24,Sunday
+236,local night WFM Melrose 4pm-7pm,True,2014,8,25,2014,8,25,Monday
+237,,False,NULL,NULL,NULL,2014,8,26,Tuesday
+238,,False,NULL,NULL,NULL,2014,8,27,Wednesday
+239,local night WFM West Hartford 3pm-6pm,True,2014,8,25,2014,8,28,Thursday
+240,,False,NULL,NULL,NULL,2014,8,29,Friday
+241,"BB&B East Hanover, 61st St 12pm-4pm",False,NULL,NULL,NULL,2014,8,30,Saturday
+242,BB&B West LA 12pm-4pm,False,NULL,NULL,NULL,2014,8,31,Sunday
+243,,False,NULL,NULL,NULL,2014,9,1,Monday
+244,,False,NULL,NULL,NULL,2014,9,2,Tuesday
+245,,False,NULL,NULL,NULL,2014,9,3,Wednesday
+246,,False,NULL,NULL,NULL,2014,9,4,Thursday
+247,,False,NULL,NULL,NULL,2014,9,5,Friday
+248,,False,NULL,NULL,NULL,2014,9,6,Saturday
+249,,False,NULL,NULL,NULL,2014,9,7,Sunday
+250,,False,NULL,NULL,NULL,2014,9,8,Monday
+251,,False,NULL,NULL,NULL,2014,9,9,Tuesday
+252,,False,NULL,NULL,NULL,2014,9,10,Wednesday
+253,,False,NULL,NULL,NULL,2014,9,11,Thursday
+254,,False,NULL,NULL,NULL,2014,9,12,Friday
+255,"BB&B 12pm-4pm Shaumburg, IL12pm-4pm",False,NULL,NULL,NULL,2014,9,13,Saturday
+256,"BB&B 12pm-4pm Farmington Hills, MI 12pm-4pm",False,NULL,NULL,NULL,2014,9,14,Sunday
+257,"BB&B 12pm-4pm East Hanover, NJ",False,NULL,NULL,NULL,2014,9,15,Monday
+258,,False,NULL,NULL,NULL,2014,9,16,Tuesday
+259,,False,NULL,NULL,NULL,2014,9,17,Wednesday
+260,,False,NULL,NULL,NULL,2014,9,18,Thursday
+261,,False,NULL,NULL,NULL,2014,9,19,Friday
+262,"Williams-Sonoma Salt Lake City, UT 1pm-4pm",False,NULL,NULL,NULL,2014,9,20,Saturday
+263,,False,NULL,NULL,NULL,2014,9,21,Sunday
+264,,False,NULL,NULL,NULL,2014,9,22,Monday
+265,,False,NULL,NULL,NULL,2014,9,23,Tuesday
+266,,False,NULL,NULL,NULL,2014,9,24,Wednesday
+267,,False,NULL,NULL,NULL,2014,9,25,Thursday
+268,,False,NULL,NULL,NULL,2014,9,26,Friday
+269,"BB&B 12pm-4pm Tysons Corner VA, 61st St NY, Woodbridge, NJ, West LA, 12pm-4pm",False,NULL,NULL,NULL,2014,9,27,Saturday
+270,Southern Season Chapel Hill 1pm-4pm,False,NULL,NULL,NULL,2014,9,28,Sunday
+271,,False,NULL,NULL,NULL,2014,9,29,Monday
+272,,False,NULL,NULL,NULL,2014,9,30,Tuesday
+273,Greene Grape Annex 5pm-8pm,False,NULL,NULL,NULL,2014,3,15,Saturday
+274,Nolita Mart 1pm-3pm,False,NULL,NULL,NULL,2014,3,22,Saturday
+275,WFM Melrose 12pm-3pm,True,2014,3,17,2014,3,23,Sunday
+276,Art of the Table4pm-7pm,False,NULL,NULL,NULL,2014,3,28,Friday
+277,Fairway Woodland Park 12pm-3pm,False,NULL,NULL,NULL,2014,3,29,Saturday
+278,Red Rolling Pin 5pm  8pm MIRUS,False,NULL,NULL,NULL,2014,4,4,Friday
+279,Elis Manhattan 2pm-5pm JOY,False,NULL,NULL,NULL,2014,4,5,Saturday
+280,"WFM Cranston, RI 4pm-7pm MIRUS",True,2014,3,31,2014,4,5,Saturday
+281,Tribeca WFM 4pm-7pm SABRINA,True,2014,3,31,2014,4,6,Sunday
+282,WFM Chelsea 4pm-7pm MIRUS,True,2014,4,7,2014,4,10,Thursday
+283,WFM River St. MIRUS,True,2014,4,7,2014,4,11,Friday
+284,WFM Tanasbourne 4pm-7pm MIRUS,True,2014,4,7,2014,4,11,Friday
+285,"WFM Portland, ME MIRUS",True,2014,4,7,2014,4,12,Saturday
+286,WFM Redmond (PNW) 3pm-6pm MIRUS,True,2014,4,7,2014,4,12,Saturday
+287,WFM Dedham 3pm-6pm MIRUS,True,2014,4,7,2014,4,13,Sunday
+288,WFM Hollywood 4pm-7pm MIRUS,True,2014,4,14,2014,4,17,Thursday
+289,WFM UWS 4pm-7pm AMANDA,True,2014,4,14,2014,4,18,Friday
+290,"TFM Newport News, 4pm-7pm",False,NULL,NULL,NULL,2014,4,18,Friday
+291,TFM Williamsburg 12pm-3pm,False,NULL,NULL,NULL,2014,4,18,Friday
+292,Union Market (Union St.) 12pm-3pm,False,NULL,NULL,NULL,2014,4,19,Saturday
+293,TFM Coconut Grove 11am-2pm,False,NULL,NULL,NULL,2014,4,19,Saturday
+294,TFM Pembroke Pines 2pm-5pm,False,NULL,NULL,NULL,2014,4,19,Saturday
+295,WFM Tribeca 4pm-7pm JOY,True,2014,4,21,2014,4,24,Thursday
+296,WFM River St. 4pm-7pm,True,2014,4,21,2014,4,25,Friday
+297,WFM Dedham 4pm-7pm,True,2014,4,21,2014,4,25,Friday
+298,TFM Aventura 4pm-7pm,False,NULL,NULL,NULL,2014,4,25,Friday
+299,"TFM Stuart, 4pm-7pm",False,NULL,NULL,NULL,2014,4,25,Friday
+300,WFM Chelsea 3pm-6pm,True,2014,4,21,2014,4,26,Saturday
+301,"TFM Tampa, 2pm-5pm",False,NULL,NULL,NULL,2014,4,26,Saturday
+302,"TFM St. Petersburg, 2pm-5pm",False,NULL,NULL,NULL,2014,4,26,Saturday
+303,"TFM Virginia Beach, 3pm-6pm",False,NULL,NULL,NULL,2014,4,26,Saturday
+304,WFM Fresh Pond 3pm-6pm MIRUS,True,2014,4,21,2014,4,27,Sunday
+305,"TFM Midlothian, 12pm-3pm",False,NULL,NULL,NULL,2014,4,27,Sunday
+306,"TFM Richmond, 4pm-7pm",False,NULL,NULL,NULL,2014,4,27,Sunday
+307,WFM Brighton 4pm-7pm MIRUS,True,2014,4,28,2014,4,29,Tuesday
+308,"TFM Sarasota, FL 1pm-4pm",False,NULL,NULL,NULL,2014,5,2,Friday
+309,"TFM Wilmette, IL 4pm-7pm",False,NULL,NULL,NULL,2014,5,2,Friday
+310,WFM University Heights 2pm-5pm,True,2014,4,28,2014,5,3,Saturday
+311,TFM Boca Raton 12pm-3pm,False,NULL,NULL,NULL,2014,5,3,Saturday
+312,TFM Boca Raton (2) 4pm-7pm,False,NULL,NULL,NULL,2014,5,3,Saturday
+313,"Vintage on 4th, CA 5:30pm-8:30pm",False,NULL,NULL,NULL,2014,5,3,Saturday
+314,"TFM New Orleans, LA 4pm-7pm",False,NULL,NULL,NULL,2014,5,9,Friday
+315,"Macys Chicago, IL 4pm-7pm",False,NULL,NULL,NULL,2014,5,9,Friday
+316,"TFM Lafayette, LA 3pm-6pm",False,NULL,NULL,NULL,2014,5,9,Friday
+317,"TFM Mandeville, LA 11am-3pm",False,NULL,NULL,NULL,2014,5,10,Saturday
+318,TFM Hilton Head 2pm-6pm,False,NULL,NULL,NULL,2014,5,10,Saturday
+319,"TFM Towson, MD 12pm-4pm",False,NULL,NULL,NULL,2014,5,10,Saturday
+320,Gourmet Garage Soho 1pm-4pm AMANDA M,False,NULL,NULL,NULL,2014,5,11,Sunday
+321,"TFM Latham, NY 1pm-4pm",False,NULL,NULL,NULL,2014,5,17,Saturday
+322,BYOB Cocktail Emporium (Toronto)  1pm-4pm,False,NULL,NULL,NULL,2014,5,24,Saturday
+323,"Plum Market, 12pm-4pm",False,NULL,NULL,NULL,2014,5,24,Saturday
+324,"TFM Southern Pines, 12pm-4pm",False,NULL,NULL,NULL,2014,5,24,Saturday
+325,"TFM Asheville, NC 2pm-5pm",False,NULL,NULL,NULL,2014,5,24,Saturday
+326,Fairway Chelsea 3pm-6pm,False,NULL,NULL,NULL,2014,5,30,Friday
+327,Foragers Market Chelsea 11am-2pm,False,NULL,NULL,NULL,2014,6,22,Sunday
+328,Di Bruno Bros. Franklin 5pm-7pm,False,NULL,NULL,NULL,2014,6,26,Thursday
+329,Union Market Houston 4pm-7pm,False,NULL,NULL,NULL,2014,7,2,Wednesday
+330,"Williams-Sonoma Costa Mesa, CA 1pm-4pm (Mirus)",False,NULL,NULL,NULL,2014,7,5,Saturday
+331,Union Market 2pm-5pm,False,NULL,NULL,NULL,2014,7,12,Saturday
+332,Bantam Market 2pm-5pm (Nina),False,NULL,NULL,NULL,2014,7,12,Saturday
+333,"TFM Westport CT, 11am-1pm",False,NULL,NULL,NULL,2014,7,12,Saturday
+334,Foragers Chelsea 2pm-5pm,False,NULL,NULL,NULL,2014,7,13,Sunday
+335,Plum Market Old Town Chicago,False,NULL,NULL,NULL,2014,7,19,Saturday
+336,Williams-Sonoma Beverly Hills 1pm-5pm,False,NULL,NULL,NULL,2014,7,19,Saturday
+337,WS Columbus Circle 4pm-7pm,False,NULL,NULL,NULL,2014,7,22,Tuesday
+338,local night @ WFM West Hartford 3pm-6pm,True,2014,7,21,2014,7,24,Thursday
+339,WFM Melrose block party 4pm-6pm,True,2014,7,21,2014,7,24,Thursday
+340,Plum Market West Bloomfield,False,NULL,NULL,NULL,2014,7,26,Saturday
+341,Northville Market 1pm-4pm,False,NULL,NULL,NULL,2014,7,26,Saturday
+342,TFM Ashville 2pm-5pm,False,NULL,NULL,NULL,2014,7,26,Saturday
+343,TFM Tampa 12pm-3pm,False,NULL,NULL,NULL,2014,7,26,Saturday
+344,"BB&B Shaumburg, 61st St 12pm-4pm",False,NULL,NULL,NULL,2014,7,26,Saturday
+345,Salazon Chocolate Co. 12pm-3pm,False,NULL,NULL,NULL,2014,7,27,Sunday
+346,Volta Market 6pm-9pm,False,NULL,NULL,NULL,2014,8,9,Saturday
+347,"BB&B Farmington Hills, 61st St. 12pm-4pm",False,NULL,NULL,NULL,2014,8,9,Saturday
+348,Williams-Sonoma King of Prussia 12pm-3pm,False,NULL,NULL,NULL,2014,8,9,Saturday
+349,Woodstock Farmers Market 12pm-4pm,False,NULL,NULL,NULL,2014,8,10,Sunday
+350,"BB&B Woodbridge, Tysons Corner, West LA 12pm-4pm",False,NULL,NULL,NULL,2014,8,10,Sunday
+351,"TFM Raleigh, NC 3pm-6pm",False,NULL,NULL,NULL,2014,8,17,Sunday
+352,Williams-Sonoma Salt Lake City 1pm-4pm,False,NULL,NULL,NULL,2014,8,23,Saturday
+353,Williams-Sonoma San Fran CA 2pm-5pm,False,NULL,NULL,NULL,2014,8,24,Sunday
+354,"WFM Darien, CT 11am-3pm",True,2014,8,25,2014,8,28,Thursday
+355,"TFM Savannah, GA 1pm-4pm",False,NULL,NULL,NULL,2014,8,30,Saturday
+356,"Williams-Sonoma San Fran, CA 1pm-4pm",False,NULL,NULL,NULL,2014,9,13,Saturday

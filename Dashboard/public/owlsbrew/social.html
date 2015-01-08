@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+<title>Owl's Brew</title>
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta content="" name="description">
+<meta content="" name="author">
+<!-- BEGIN GLOBAL MANDATORY STYLES -->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css">
+<link href="./../assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="./../assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css">
+<link href="./../assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="./../assets/global/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css">
+<!-- END GLOBAL MANDATORY STYLES -->
+<!-- BEGIN PAGE LEVEL PLUGIN STYLES -->
+<link href="./../assets/global/plugins/jqvmap/jqvmap/jqvmap.css" rel="stylesheet" type="text/css">
+<link href="./../assets/global/plugins/morris/morris.css" rel="stylesheet" type="text/css">
+<!-- END PAGE LEVEL PLUGIN STYLES -->
+<!-- BEGIN PAGE STYLES -->
+<link href="./../assets/admin/pages/css/tasks.css" rel="stylesheet" type="text/css"/>
+<!-- END PAGE STYLES -->
+<!-- BEGIN THEME STYLES -->
+<!-- DOC: To use 'rounded corners' style just load 'components-rounded.css' stylesheet instead of 'components.css' in the below style tag -->
+<link href="./../assets/global/css/components-rounded.css" id="style_components" rel="stylesheet" type="text/css">
+<link href="./../assets/global/css/plugins.css" rel="stylesheet" type="text/css">
+<link href="./../assets/admin/layout3/css/layout.css" rel="stylesheet" type="text/css">
+<link href="./../assets/admin/layout3/css/themes/default.css" rel="stylesheet" type="text/css" id="style_color">
+<link href="./../assets/admin/layout3/css/custom.css" rel="stylesheet" type="text/css">
+<!-- END THEME STYLES -->
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" href="../css/bootstrap.min.css">
+<link rel="stylesheet" href="../css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="../css/colorbrewer.css">
+<link rel="stylesheet" href="../css/leaflet.css">
+<link rel="stylesheet" href="../css/dc.css">
+
+
+<style>
+
+      .heat-box {
+        stroke: #E6E6E6;
+        stroke-width: 2px;
+      }
+
+
+    body {
+      font: 10px sans-serif;
+    }
+
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+
+    .bar {
+      fill: steelblue;
+    }
+
+    .x.axis path {
+      display: none;
+    }
+
+
+body {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+
+
+.heat-box:hover {
+  fill: orangered ;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+
+</style>
+
+
+</head>
+<!-- END HEAD -->
+<!-- BEGIN BODY -->
+<!-- DOC: Apply "page-header-menu-fixed" class to set the mega menu fixed  -->
+<!-- DOC: Apply "page-header-top-fixed" class to set the top menu fixed  -->
+<body>
+<!-- BEGIN HEADER -->
+<div class="page-header">
+	<!-- BEGIN HEADER TOP -->
+	<div class="page-header-top">
+		<div class="container">
+			<!-- BEGIN LOGO -->
+			<div class="page-logo">
+				<a href="index.html"><img src="./../assets/admin/layout3/img/OB_Logo copy2.jpg" alt="logo" class="logo-default"></a>
+			</div>
+			<!-- END LOGO -->
+			<!-- BEGIN RESPONSIVE MENU TOGGLER -->
+			<a href="javascript:;" class="menu-toggler"></a>
+			<!-- END RESPONSIVE MENU TOGGLER -->
+			<!-- BEGIN TOP NAVIGATION MENU -->
+			
+	<!-- END HEADER TOP -->
+	<!-- BEGIN HEADER MENU -->
+	<div class="page-header-menu">
+		<div class="container">
+			<div class="hor-menu">
+				<ul class="nav navbar-nav">
+					<li class="inactive">
+						<a href="index.html">Whole Foods</a>
+					</li>
+					<li >
+						<a href="demos.html">Demo Analysis</a>
+					</li>
+					<li class="menu-dropdown classic-menu-dropdown ">
+						<a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;">
+						Social Media <i class="fa fa-angle-down"></i>
+						</a>
+						<ul class="dropdown-menu">
+							<li class=" iconify active">
+								<a href="";>
+								<i class="icon-social-twitter"></i>
+								Engagement Patterns</a>
+							</li>
+							<li class="iconify">
+								<a href="trending.html">
+								<i class="icon-bar-chart"></i>
+								Social Media Trends</a>
+							</li>
+							
+						</ul>
+					</li>			
+				</ul>
+			</div>
+			<!-- END MEGA MENU -->
+		</div>
+	</div>
+	<!-- END HEADER MENU -->
+</div>
+<!-- END HEADER -->
+<!-- BEGIN PAGE CONTAINER -->
+<div class="page-container">
+	<!-- BEGIN PAGE HEAD -->
+	<div class="page-head">
+		<div class="container">
+			<!-- BEGIN PAGE TITLE -->
+			<div class="page-title">
+				<h1>Social Media Engagement <small>what is our social media engagement level, over time and by site?</small></h1>
+			</div>
+			<!-- END PAGE TITLE -->
+		</div>
+	</div>
+	<!-- END PAGE HEAD -->
+	<!-- BEGIN PAGE CONTENT -->
+	<div class="page-content">
+		<div class="container">
+			<!-- BEGIN PAGE BREADCRUMB -->
+			<ul class="page-breadcrumb breadcrumb hide">
+				<li>
+					<a href="#">Home</a><i class="fa fa-circle"></i>
+				</li>
+				<li class="active">
+					 Dashboard
+				</li>
+			</ul>
+			<!-- END PAGE BREADCRUMB -->
+			<div class="row margin-top-10">
+				<div class="col-md-12 col-sm-12">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption caption-md">
+								<i class="icon-bar-chart theme-font hide"></i>
+								<span class="caption-subject theme-font bold uppercase">TODO</span>
+							</div>
+						</div>
+
+					<div class="portlet-body">
+					    <div class = "row">
+					      <div class="col-md-12 col-sm-12">
+					        <div class = "btn-group" data-toggle="buttons">
+					            <button type="button" id = "likes" class="btn bg-green-haze active">Likes</button>
+					            <button type="button" id = "posts" class="btn btn-default">Posts</button>
+					            <button type="button" id = "likesperpost" class="btn btn-default">Likes per Post</button>
+					            <button type="button" id = "comments" class="btn btn-default">Comments</button>
+					            <button type="button" id = "likescomments" class="btn btn-default">Likes+Comments</button>
+					        </div>
+					       </div>
+					    </div>
+					    <div class = "row">
+					        <div id = "heat"></div>
+
+						        <div class = "row">
+						            	<div id = "sites"></div>
+						        </div>
+					        </div>
+					    </div>
+						<div class="row margin-top-10">
+							<div class="col-md-12 col-sm-12">
+								<!-- BEGIN PORTLET-->
+								<div class="portlet light ">
+									<div class="portlet-title">
+										<div class="caption caption-md">
+											<span class="caption-subject theme-font bold uppercase">TODO</span>
+										</div>
+									</div>
+
+								<div class="portlet-body">
+									<div class ="table table-striped dc-data-table "></div>
+								 </div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+
+
+
+
+
+	<!-- END PAGE CONTENT -->
+			</div>
+		</div>
+
+<!--[if lt IE 9]>
+<script src="./../assets/global/plugins/respond.min.js"></script>
+<script src="./../assets/global/plugins/excanvas.min.js"></script> 
+<![endif]-->
+
+<script src="../js/moment-with-locales.min.js"></script>    
+<script src="../js/colorbrewer.js"></script>
+<script src="../js/crossfilter.min.js"></script>
+<script src="../js/d3.min.js"></script>
+<script src="../js/d3.geo.projection.v0.min.js"></script>
+<script src="../js/queue.min.js"></script>
+<script src="../js/dc.js"></script>
+<script src="../js/leaflet-src.js"></script>
+<script src="../js/leaflet.markercluster.js"></script>
+<script src="../js/leaflet-pip.min.js"></script>
+<script src="../js/dc.leaflet.js"></script>
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/underscore-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/numeral.js/1.4.5/numeral.min.js"></script>
+<script src="../js/bootstrap.js"></script>
+<script src="../js/d3.tip.js"></script>
+
+
+
+<script src="./../assets/global/plugins/jquery.min.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/jquery-migrate.min.js" type="text/javascript"></script>
+<!-- IMPORTANT! Load jquery-ui-1.10.3.custom.min.js before bootstrap.min.js to fix bootstrap tooltip conflict with jquery ui tooltip -->
+<script src="./../assets/global/plugins/jquery-ui/jquery-ui-1.10.3.custom.min.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/jquery.cokie.min.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/uniform/jquery.uniform.min.js" type="text/javascript"></script>
+<!-- END CORE PLUGINS -->
+<!-- BEGIN PAGE LEVEL PLUGINS -->
+<script src="./../assets/global/plugins/jqvmap/jqvmap/jquery.vmap.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.russia.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.world.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.europe.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.germany.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.usa.js" type="text/javascript"></script>
+<script src="./../assets/global/plugins/jqvmap/jqvmap/data/jquery.vmap.sampledata.js" type="text/javascript"></script>
+<!-- IMPORTANT! fullcalendar depends on jquery-ui-1.10.3.custom.min.js for drag & drop support -->
+<!-- END PAGE LEVEL PLUGINS -->
+<!-- BEGIN PAGE LEVEL SCRIPTS -->
+<script src="social.js"></script>
+<script src="./../assets/global/scripts/metronic.js" type="text/javascript"></script>
+<script src="./../assets/admin/layout3/scripts/layout.js" type="text/javascript"></script>
+<script src="./../assets/admin/layout3/scripts/demo.js" type="text/javascript"></script>
+<script src="./../assets/admin/pages/scripts/index3.js" type="text/javascript"></script>
+<script src="./../assets/admin/pages/scripts/tasks.js" type="text/javascript"></script>
+
+<!-- END PAGE LEVEL SCRIPTS -->
+<script>
+jQuery(document).ready(function() {    
+   Metronic.init(); // init metronic core componets
+   Layout.init(); // init layout
+   Demo.init(); // init demo(theme settings page)
+   Index.init(); // init index page
+   Tasks.initDashboardWidget(); // init tash dashboard widget
+});
+</script>
+<!-- END JAVASCRIPTS -->
+</body>
+<!-- END BODY -->
+</html>

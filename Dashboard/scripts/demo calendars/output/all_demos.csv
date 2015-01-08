@@ -1,0 +1,358 @@
+Month,Date,Day,Info
+1,1,Wednesday,
+1,2,Thursday,
+1,3,Friday,
+1,4,Saturday,
+1,5,Sunday,
+1,6,Monday,
+1,7,Tuesday,
+1,8,Wednesday,
+1,9,Thursday,
+1,10,Friday,
+1,11,Saturday,
+1,12,Sunday,
+1,13,Monday,
+1,14,Tuesday,
+1,15,Wednesday,
+1,16,Thursday,Whole Foods Tribeca (Calli 4pm-7pm)
+1,17,Friday,
+1,18,Saturday,
+1,19,Sunday,
+1,20,Monday,
+1,21,Tuesday,
+1,22,Wednesday,
+1,23,Thursday,
+1,24,Friday,Whole Foods Tribeca (Calli 4pm-7pm)
+1,25,Saturday,
+1,26,Sunday,
+1,27,Monday,
+1,28,Tuesday,
+1,29,Wednesday,Gourmet Garage SoHo (Calli 4pm-7pm)
+1,30,Thursday,Whole Foods Tribeca (Calli 4pm-7pm)
+1,31,Friday,
+2,1,Saturday,Depanneur 12pm  3pm (Jennie? Maria?)
+2,2,Sunday,
+2,3,Monday,
+2,4,Tuesday,"Gourmet Garage Park Ave 4pm  7pm (Melissa, Mirus)"
+2,5,Wednesday,
+2,6,Thursday,"Gourmet Garage SoHo (Melissa, Mirus)"
+2,7,Friday,"Whole Foods Tribeca (Amanda, Mirus)"
+2,8,Saturday,Nolita Mart 2pm-4pm
+2,9,Sunday,
+2,10,Monday,
+2,11,Tuesday,Fairway 86th St 3pm  6pm (Mirus?)
+2,12,Wednesday,Whole Foods Tribeca (Harmony 4pm-7pm)
+2,13,Thursday,
+2,14,Friday,
+2,15,Saturday,
+2,16,Sunday,
+2,17,Monday,
+2,18,Tuesday,
+2,19,Wednesday,Gourmet Garage Park Ave  4pm-7pm)
+2,20,Thursday,Gourmet Garage SoHo (Harmony 4pm-7pm)
+2,21,Friday,Whole Foods Tribeca (Calli 4pm-7pm)
+2,22,Saturday,Fairway Red Hook 2pm  5pm (Mirus?)
+2,23,Sunday,West Elm Broadway 1pm-4pm
+2,24,Monday,
+2,25,Tuesday,
+2,26,Wednesday,
+2,27,Thursday,Green Grape Provisions demo (5pm-8pm)
+2,28,Friday,
+3,1,Saturday,West Elm Broadway 1pm-4pm
+3,2,Sunday,West Elm Dumbo 2pm  5pm
+3,3,Monday,
+3,4,Tuesday,
+3,5,Wednesday,
+3,6,Thursday,Fairway 86th St 3pm-6pm (Harmony)
+3,7,Friday,
+3,8,Saturday,
+3,9,Sunday,Fairway Kips Bay (Harmony) 3pm-6pm
+3,10,Monday,
+3,11,Tuesday,
+3,12,Wednesday,
+3,13,Thursday,
+3,14,Friday,Whole Foods Gowanus 4pm-7pm
+3,15,Saturday,Fairway Woodland Park 12pm-3pm
+3,15,Saturday,Greene Grape Annex 5pm-8pm
+3,16,Sunday,Fairway Red Hook (Harmony) 2pm-5pm
+3,17,Monday,
+3,18,Tuesday,
+3,19,Wednesday,
+3,20,Thursday,Gourmet Garage E 64th St (4pm-7pm)
+3,21,Friday,Elis Manhattan 4pm-7pm
+3,22,Saturday,Fairway Nanuet 3pm-6pm
+3,22,Saturday,Nolita Mart 1pm-3pm
+3,23,Sunday,West Elm Dumbo 2pm  5pm (Harmony)
+3,23,Sunday,WFM Melrose 12pm-3pm
+3,24,Monday,
+3,25,Tuesday,
+3,26,Wednesday,
+3,27,Thursday,Fairway Westbury 3pm  6pm
+3,28,Friday,Whole Foods Gowanus Demo 4pm-7pm
+3,28,Friday,Art of the Table4pm-7pm
+3,29,Saturday,Fairway Red Hook 2pm-5pm
+3,29,Saturday,Fairway Woodland Park 12pm-3pm
+3,30,Sunday,Fairway Kips Bay 3pm-6pm (Harmony)
+3,31,Monday,
+4,1,Tuesday,
+4,2,Wednesday,
+4,3,Thursday,Gourmet Garage E 64th St 4pm-7pm SABRINA
+4,4,Friday,Fairway Nanuet 3pm-6pm MIRUS
+4,4,Friday,Red Rolling Pin 5pm  8pm MIRUS
+4,5,Saturday,WFM Lynnfield 4pm-7pm MIRUS
+4,5,Saturday,Elis Manhattan 2pm-5pm JOY
+4,5,Saturday,"WFM Cranston, RI 4pm-7pm MIRUS"
+4,6,Sunday,Depanneur 12pm-3pm JOY
+4,6,Sunday,Tribeca WFM 4pm-7pm SABRINA
+4,7,Monday,
+4,8,Tuesday,Gourmet Garage West Village 5pm-8pm
+4,9,Wednesday,
+4,10,Thursday,WFM UWS 4pm-7pm AMANDA
+4,10,Thursday,WFM Chelsea 4pm-7pm MIRUS
+4,11,Friday,WFM Union Square 4pm-7pm JOY
+4,11,Friday,WFM River St. MIRUS
+4,11,Friday,WFM Tanasbourne 4pm-7pm MIRUS
+4,12,Saturday,West Elm Broadway 1pm-4pm DANIELLE
+4,12,Saturday,"WFM Portland, ME MIRUS"
+4,12,Saturday,WFM Redmond (PNW) 3pm-6pm MIRUS
+4,13,Sunday,Union Market (Houston) 4pm-7pm JOY
+4,13,Sunday,WFM Dedham 3pm-6pm MIRUS
+4,14,Monday,
+4,15,Tuesday,
+4,16,Wednesday,
+4,17,Thursday,WFM Chelsea 4pm-7pm JOY
+4,17,Thursday,WFM Hollywood 4pm-7pm MIRUS
+4,18,Friday,WFM Roosevelt Square (PNW) 4pm-7pm
+4,18,Friday,WFM UWS 4pm-7pm AMANDA
+4,18,Friday,"TFM Newport News, 4pm-7pm"
+4,18,Friday,TFM Williamsburg 12pm-3pm
+4,19,Saturday,Union Market (Court St.) 2pm-5pm DANIELLE
+4,19,Saturday,Union Market (Union St.) 12pm-3pm
+4,19,Saturday,TFM Coconut Grove 11am-2pm
+4,19,Saturday,TFM Pembroke Pines 2pm-5pm
+4,20,Sunday,
+4,21,Monday,
+4,22,Tuesday,Gourmet Garage West Village 5pm-8pm
+4,23,Wednesday,
+4,24,Thursday,WFM Tanasbourne 4pm-7pm MIRUS
+4,24,Thursday,WFM Tribeca 4pm-7pm JOY
+4,25,Friday,WFM Union Sq 4pm-7pm AMANDA
+4,25,Friday,WFM River St. 4pm-7pm
+4,25,Friday,WFM Dedham 4pm-7pm
+4,25,Friday,TFM Aventura 4pm-7pm
+4,25,Friday,"TFM Stuart, 4pm-7pm"
+4,26,Saturday,WFM Lynnwood (PNW) 12pm-3pm
+4,26,Saturday,WFM Chelsea 3pm-6pm
+4,26,Saturday,"TFM Tampa, 2pm-5pm"
+4,26,Saturday,"TFM St. Petersburg, 2pm-5pm"
+4,26,Saturday,"TFM Virginia Beach, 3pm-6pm"
+4,27,Sunday,Union Market 7th Ave 3pm-6pm
+4,27,Sunday,WFM Fresh Pond 3pm-6pm MIRUS
+4,27,Sunday,"TFM Midlothian, 12pm-3pm"
+4,27,Sunday,"TFM Richmond, 4pm-7pm"
+4,28,Monday,Union Market (Houston) 4pm-7pm
+4,29,Tuesday,WFM Hollywood 4pm-7pm
+4,29,Tuesday,WFM Brighton 4pm-7pm MIRUS
+4,30,Wednesday,
+5,1,Thursday,
+5,2,Friday,"WFM Roosevelt Square (PNW), 4pm-7pm"
+5,2,Friday,"TFM Sarasota, FL 1pm-4pm"
+5,2,Friday,"TFM Wilmette, IL 4pm-7pm"
+5,3,Saturday,"Southern Season Chapel Hill, 3pm-6pm"
+5,3,Saturday,WFM University Heights 2pm-5pm
+5,3,Saturday,TFM Boca Raton 12pm-3pm
+5,3,Saturday,TFM Boca Raton (2) 4pm-7pm
+5,3,Saturday,"Vintage on 4th, CA 5:30pm-8:30pm"
+5,4,Sunday,"WFM Bridgeport, 1pm-4pm"
+5,5,Monday,
+5,6,Tuesday,Gourmet Garage West Village 3pm-6pm
+5,7,Wednesday,
+5,8,Thursday,Gourmet Garage Soho 3pm-6pm GWEN
+5,9,Friday,"WFM Brighton, 4pm-7pm"
+5,9,Friday,"TFM New Orleans, LA 4pm-7pm"
+5,9,Friday,"Macys Chicago, IL 4pm-7pm"
+5,9,Friday,"TFM Lafayette, LA 3pm-6pm"
+5,10,Saturday,"Fairway Red Hook, 3pm-6pm AMANDA M"
+5,10,Saturday,"TFM Mandeville, LA 11am-3pm"
+5,10,Saturday,TFM Hilton Head 2pm-6pm
+5,10,Saturday,"TFM Towson, MD 12pm-4pm"
+5,11,Sunday,Fairway Chelsea 3pm-6pm DANIELLE
+5,11,Sunday,Gourmet Garage Soho 1pm-4pm AMANDA M
+5,12,Monday,
+5,13,Tuesday,
+5,14,Wednesday,
+5,15,Thursday,
+5,16,Friday,"WFM Fresh Pond, 4pm-7pm"
+5,17,Saturday,Fairway Harlem 3pm-6pm
+5,17,Saturday,"TFM Latham, NY 1pm-4pm"
+5,18,Sunday,"TFM Ft. Lauderdale, 12pm-3pm"
+5,19,Monday,
+5,20,Tuesday,
+5,21,Wednesday,
+5,22,Thursday,
+5,23,Friday,
+5,24,Saturday,"WFM Newton, 2pm-5pm (tentative)"
+5,24,Saturday,BYOB Cocktail Emporium (Toronto)  1pm-4pm
+5,24,Saturday,"Plum Market, 12pm-4pm"
+5,24,Saturday,"TFM Southern Pines, 12pm-4pm"
+5,24,Saturday,"TFM Asheville, NC 2pm-5pm"
+5,25,Sunday,BYOB Cocktail Emporium (Toronto)  1pm-4pm
+5,26,Monday,MEMORIAL DAY
+5,27,Tuesday,
+5,28,Wednesday,
+5,29,Thursday,"West Elm Broadway, 4pm-7pm"
+5,30,Friday,"Macys Chicago, IL 4pm-7pm"
+5,30,Friday,Fairway Chelsea 3pm-6pm
+5,31,Saturday,
+6,1,Sunday,
+6,2,Monday,
+6,3,Tuesday,WFM Tribeca 4pm-7pm
+6,4,Wednesday,
+6,5,Thursday,
+6,6,Friday,
+6,7,Saturday,Southern Seasons Chapel Hill event w sampling (no rep)
+6,8,Sunday,
+6,9,Monday,
+6,10,Tuesday,
+6,11,Wednesday,
+6,12,Thursday,"West Elm Broadway, 4pm-7pm (NINA)"
+6,13,Friday,
+6,14,Saturday,
+6,15,Sunday,Olives & Grace 12pm-3pm
+6,16,Monday,
+6,17,Tuesday,
+6,18,Wednesday,Union Market Houston 4pm-7pm
+6,19,Thursday,WFM Tribeca 4pm-7pm
+6,20,Friday,WFM University Heights 3pm-6pm
+6,21,Saturday,Brooklyn Victory Garden 1:30pm-3:30pm
+6,22,Sunday,TFM (30 demos w Interactions) 12pm-4pm
+6,22,Sunday,Foragers Market Chelsea 11am-2pm
+6,23,Monday,
+6,24,Tuesday,WFM Chelsea 4pm-7pm
+6,25,Wednesday,
+6,26,Thursday,Union Market Houston 4pm-7pm
+6,26,Thursday,Di Bruno Bros. Franklin 5pm-7pm
+6,27,Friday,Williams-Sonoma Boston 3pm-6pm
+6,28,Saturday,DiBrunos Rittenhouse 2pm-5pm
+6,29,Sunday,Williams-Sonoma DC 3pm-6pm
+6,30,Monday,
+7,1,Tuesday,WFM Bowery 4pm-7pm (Mirus)
+7,2,Wednesday,Southern Season Chapel Hill 3pm-6pm (Mirus)
+7,2,Wednesday,Union Market Houston 4pm-7pm
+7,3,Thursday,WFM Chelsea 4pm-7pm
+7,4,Friday,
+7,5,Saturday,"BB&B 12pm-4pm (Farmington Hills, East Havover, 61st St, Shaumburg) (Mirus)"
+7,5,Saturday,"Williams-Sonoma Costa Mesa, CA 1pm-4pm (Mirus)"
+7,6,Sunday,"DiBrunos (Ardmore) 2pm-5pm BB&B West LA, Tysons Corner, Wodbirdge 12pm-4pm"
+7,7,Monday,WFM University Heights 4pm-7pm
+7,8,Tuesday,Westerly Market 4pm-7pm
+7,9,Wednesday,
+7,10,Thursday,Williams-Sonoma 59th St. 2pm-5pm
+7,11,Friday,
+7,12,Saturday,Fairway Market Red Hook 12pm-3pm
+7,12,Saturday,Union Market 2pm-5pm
+7,12,Saturday,Bantam Market 2pm-5pm (Nina)
+7,12,Saturday,"TFM Westport CT, 11am-1pm"
+7,13,Sunday,"Williams-Sonoma Short Hills, NJ 1pm-4pm(Mirus)"
+7,13,Sunday,Foragers Chelsea 2pm-5pm
+7,14,Monday,
+7,15,Tuesday,
+7,16,Wednesday,
+7,17,Thursday,
+7,18,Friday,Southern Season Charleston 3pm-6pm
+7,19,Saturday,Savory Pantry (NY opening) 1pm-4pm
+7,19,Saturday,Plum Market Old Town Chicago
+7,19,Saturday,Williams-Sonoma Beverly Hills 1pm-5pm
+7,20,Sunday,
+7,21,Monday,
+7,22,Tuesday,WFM Bowery 4pm-7pm
+7,22,Tuesday,WS Columbus Circle 4pm-7pm
+7,23,Wednesday,
+7,24,Thursday,DiBrunos Franklin 5pm-7pm
+7,24,Thursday,local night @ WFM West Hartford 3pm-6pm
+7,24,Thursday,WFM Melrose block party 4pm-6pm
+7,25,Friday,WFM Darien 3pm-7pm
+7,26,Saturday,"Williams-Sonoma Philly, 2pm-5pm"
+7,26,Saturday,Plum Market West Bloomfield
+7,26,Saturday,Northville Market 1pm-4pm
+7,26,Saturday,TFM Ashville 2pm-5pm
+7,26,Saturday,TFM Tampa 12pm-3pm
+7,26,Saturday,"BB&B Shaumburg, 61st St 12pm-4pm"
+7,27,Sunday,NoFo at the Pig 11am  2pm
+7,27,Sunday,Salazon Chocolate Co. 12pm-3pm
+7,28,Monday,
+7,29,Tuesday,Westerly Market 4pm-7pm
+7,30,Wednesday,
+7,31,Thursday,
+8,1,Friday,
+8,2,Saturday,Lukes Drug Mart 1pm-4pm
+8,3,Sunday,Fairway Red Hook 12pm-3pm
+8,4,Monday,
+8,5,Tuesday,
+8,6,Wednesday,
+8,7,Thursday,
+8,8,Friday,
+8,9,Saturday,Bantam Market 1pm-4pm
+8,9,Saturday,Volta Market 6pm-9pm
+8,9,Saturday,"BB&B Farmington Hills, 61st St. 12pm-4pm"
+8,9,Saturday,Williams-Sonoma King of Prussia 12pm-3pm
+8,10,Sunday,WFM Darien 3pm-7pm
+8,10,Sunday,Woodstock Farmers Market 12pm-4pm
+8,10,Sunday,"BB&B Woodbridge, Tysons Corner, West LA 12pm-4pm"
+8,11,Monday,"Southern Season Richmond, VA 6pm-9pm"
+8,12,Tuesday,
+8,13,Wednesday,
+8,14,Thursday,
+8,15,Friday,
+8,16,Saturday,Williams-Sonoma 59th St 2:30pm  5:30pm
+8,17,Sunday,Salazon Chocolate 12pm-3pm
+8,17,Sunday,"TFM Raleigh, NC 3pm-6pm"
+8,18,Monday,
+8,19,Tuesday,"TFM Greensboro, NC 2pm-5pm"
+8,20,Wednesday,
+8,21,Thursday,
+8,22,Friday,Vintage on 4th 5pm-8pm
+8,23,Saturday,Southern Season Chapel Hill 12pm-3pm
+8,23,Saturday,Williams-Sonoma Salt Lake City 1pm-4pm
+8,24,Sunday,WFM Nashua 2:30 pm  6:30pm
+8,24,Sunday,Williams-Sonoma San Fran CA 2pm-5pm
+8,25,Monday,local night WFM Melrose 4pm-7pm
+8,26,Tuesday,
+8,27,Wednesday,
+8,28,Thursday,local night WFM West Hartford 3pm-6pm
+8,28,Thursday,"WFM Darien, CT 11am-3pm"
+8,29,Friday,
+8,30,Saturday,"BB&B East Hanover, 61st St 12pm-4pm"
+8,30,Saturday,"TFM Savannah, GA 1pm-4pm"
+8,31,Sunday,BB&B West LA 12pm-4pm
+9,1,Monday,
+9,2,Tuesday,
+9,3,Wednesday,
+9,4,Thursday,
+9,5,Friday,
+9,6,Saturday,
+9,7,Sunday,
+9,8,Monday,
+9,9,Tuesday,
+9,10,Wednesday,
+9,11,Thursday,
+9,12,Friday,
+9,13,Saturday,"BB&B 12pm-4pm Shaumburg, IL12pm-4pm"
+9,13,Saturday,"Williams-Sonoma San Fran, CA 1pm-4pm"
+9,14,Sunday,"BB&B 12pm-4pm Farmington Hills, MI 12pm-4pm"
+9,15,Monday,"BB&B 12pm-4pm East Hanover, NJ"
+9,16,Tuesday,
+9,17,Wednesday,
+9,18,Thursday,
+9,19,Friday,
+9,20,Saturday,"Williams-Sonoma Salt Lake City, UT 1pm-4pm"
+9,21,Sunday,
+9,22,Monday,
+9,23,Tuesday,
+9,24,Wednesday,
+9,25,Thursday,
+9,26,Friday,
+9,27,Saturday,"BB&B 12pm-4pm Tysons Corner VA, 61st St NY, Woodbridge, NJ, West LA, 12pm-4pm"
+9,28,Sunday,Southern Season Chapel Hill 1pm-4pm
+9,29,Monday,
+9,30,Tuesday,
